@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle melhores-bitcoin-cassinos-brasil",
+        "command": "melhores-bitcoin-cassinos-brasil:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "melhores-bitcoin-cassinos-brasil",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "melhores-bitcoin-cassinos-brasil:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

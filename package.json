@@ -1,0 +1,19 @@
+{
+  "name": "melhores-bitcoin-cassinos-brasil",
+  "main": "./lib/melhores-bitcoin-cassinos-brasil",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+    
+  ],
+  "activationCommands": {
+    "atom-workspace": "melhores-bitcoin-cassinos-brasil:toggle"
+  },
+  "repository": "https://github.com/atom/melhores-bitcoin-cassinos-brasil",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
