@@ -1,10 +1,10 @@
 {
   "name": "melhores-bitcoin-cassinos-brasil",
   "main": "./lib/melhores-bitcoin-cassinos-brasil",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "0.0.1",
+  "description": "This is Testing Package",
   "keywords": [
-    
+
   ],
   "activationCommands": {
     "atom-workspace": "melhores-bitcoin-cassinos-brasil:toggle"
