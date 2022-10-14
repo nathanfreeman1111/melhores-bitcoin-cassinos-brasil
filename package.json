@@ -9,7 +9,7 @@
   "activationCommands": {
     "atom-workspace": "melhores-bitcoin-cassinos-brasil:toggle"
   },
-  "repository": "https://github.com/atom/melhores-bitcoin-cassinos-brasil",
+  "repository": "https://github.com/nathanfreeman1111/melhores-bitcoin-cassinos-brasil",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
