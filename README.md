@@ -12,16 +12,16 @@ Para saber mais sobre os cassinos Bitcoin brasileiros, confira nosso artigo comp
 
 ## Melhores Cassinos de Bitcoin no Brasil
 
-⋅⋅*[Bitstarz](https://linkatin.net/go/bitstarz-atom-melhoresbitcoincassinos/): Melhor Site de Cassino de Bitcoin no Brasil
-⋅⋅*[7bit Casino](https://linkatin.net/go/7bit-atom-melhoresbitcoincassinos/): Melhor Bônus de Boas-Vindas
-⋅⋅*[Fortune Jack](https://linkatin.net/go/fortunejack-atom-melhoresbitcoincassinos/): Melhor Coleção de Jogos para Cassino
-⋅⋅*[Bc Game](https://linkatin.net/go/bcgame-atom-melhoresbitcoincassinos/): Melhor Cassino para Jogadores Experientes
-⋅⋅*[Cloudbet](https://linkatin.net/go/cloudbet-atom-melhoresbitcoincassinos/): Melhor Cassino para Novatos
-⋅⋅*[Bodog](https://linkatin.net/go/bodog-atom-melhoresbitcoincassinos/): Melhores Métodos de Pagamento
-⋅⋅*[20Bet](https://linkatin.net/go/20bet-atom-melhoresbitcoincassinos/): Melhor Cassino para Jogos ao Vivo
-⋅⋅*[National](https://linkatin.net/go/national-atom-melhoresbitcoincassinos/): Melhor Atendimento e Suporte ao Cliente
-⋅⋅*[Bizzo](https://linkatin.net/go/bizzo-atom-melhoresbitcoincassinos/): Melhor Promoção de Jogadas Grátis
-⋅⋅*[Betmotion](https://linkatin.net/go/betmotion-atom-melhoresbitcoincassinos/): Melhores Promoções de Cassino Bitcoin
+*[Bitstarz](https://linkatin.net/go/bitstarz-atom-melhoresbitcoincassinos/): Melhor Site de Cassino de Bitcoin no Brasil
+*[7bit Casino](https://linkatin.net/go/7bit-atom-melhoresbitcoincassinos/): Melhor Bônus de Boas-Vindas
+*[Fortune Jack](https://linkatin.net/go/fortunejack-atom-melhoresbitcoincassinos/): Melhor Coleção de Jogos para Cassino
+*[Bc Game](https://linkatin.net/go/bcgame-atom-melhoresbitcoincassinos/): Melhor Cassino para Jogadores Experientes
+*[Cloudbet](https://linkatin.net/go/cloudbet-atom-melhoresbitcoincassinos/): Melhor Cassino para Novatos
+*[Bodog](https://linkatin.net/go/bodog-atom-melhoresbitcoincassinos/): Melhores Métodos de Pagamento
+*[20Bet](https://linkatin.net/go/20bet-atom-melhoresbitcoincassinos/): Melhor Cassino para Jogos ao Vivo
+*[National](https://linkatin.net/go/national-atom-melhoresbitcoincassinos/): Melhor Atendimento e Suporte ao Cliente
+*[Bizzo](https://linkatin.net/go/bizzo-atom-melhoresbitcoincassinos/): Melhor Promoção de Jogadas Grátis
+*[Betmotion](https://linkatin.net/go/betmotion-atom-melhoresbitcoincassinos/): Melhores Promoções de Cassino Bitcoin
 
 ### 1. [Bitstarz](https://linkatin.net/go/bitstarz-atom-melhoresbitcoincassinos/) - Melhor Cassino de Bitcoin do Brasil no Geral
 
