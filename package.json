@@ -2,8 +2,11 @@
   "name": "melhores-bitcoin-cassinos-brasil",
   "main": "./lib/melhores-bitcoin-cassinos-brasil",
   "version": "0.1.0",
-  "description": "This is Testing Package",
-  "keywords": [],
+  "description": "Onde achar os melhores cassinos de Bitcoin no Brasil? Veja aqui a nossa revisão detalhada com as melhores dicas sobre os cassinos que aceitam Bitcoin no Brasil.",
+  "keywords": [
+    "Melhores Bitcoin Cassinos",
+    "Bitcoin Cassinos"
+  ],
   "activationCommands": {
     "atom-workspace": "melhores-bitcoin-cassinos-brasil:toggle"
   },
