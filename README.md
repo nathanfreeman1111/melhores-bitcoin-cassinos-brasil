@@ -25,7 +25,7 @@ Para saber mais sobre os cassinos Bitcoin brasileiros, confira nosso artigo comp
 
 ### 1. [Bitstarz](https://linkatin.net/go/bitstarz-atom-melhoresbitcoincassinos/) - Melhor Cassino de Bitcoin do Brasil no Geral
 
-![image4](https://user-images.githubusercontent.com/65598543/196105457-3c97636c-3ca0-4116-97a9-5984614c0028.jpg)
+![image4](https://linkatin.net/wp-content/uploads/2022/10/image4.jpg)
 
 **Prós**
 
@@ -67,7 +67,7 @@ Os slots 3D também podem ser considerados um dos que mais atraem clientes ávid
 [O Bitstarz é a melhor opção entre os cassinos Bitcoin no Brasil! Clique aqui e registre-se.](https://linkatin.net/go/bitstarz-atom-melhoresbitcoincassinos/)
 ### 2. [7Bit Casino](https://linkatin.net/go/7bit-atom-melhoresbitcoincassinos/) - Melhor Bônus de Boas-Vindas para Bitcoin de Um Cassino Brasileiro
 
-![image5](https://user-images.githubusercontent.com/65598543/196105574-d8e81dab-535f-4ca6-8b73-a9de6a570031.jpg)
+![image5](https://linkatin.net/wp-content/uploads/2022/10/image5.jpg)
 
 **Prós**
 
@@ -112,7 +112,7 @@ Além de slots, os clássicos roleta, bacará e blackjack podem ser encontrados 
 
 ### 3. [Fortune Jack](https://linkatin.net/go/fortunejack-atom-melhoresbitcoincassinos/) - Melhor Coleção de Jogos de Bitcoin para Cassino no Brasil
 
-![image1](https://user-images.githubusercontent.com/65598543/196105692-849d808e-4106-4abc-8007-3252ba6e194d.jpg)
+![image1](https://linkatin.net/wp-content/uploads/2022/10/image1.jpg)
 
 
 **Prós**
@@ -157,7 +157,7 @@ Além dos slots, os tradicionais e aclamados jogos de roleta, cassino ao vivo, r
 
 ### 4. [Bc Game](https://linkatin.net/go/bcgame-atom-melhoresbitcoincassinos/) - Melhor Cassino de Bitcoin do Brasil para Jogadores Experientes
 
-![image2](https://user-images.githubusercontent.com/65598543/196105784-80cbed9a-18f3-45ef-9a86-25668f9cfd65.jpg)
+![image2](https://linkatin.net/wp-content/uploads/2022/10/image2.jpg)
 
 **Prós**
 
@@ -205,7 +205,7 @@ E os gráficos do layout que mencionamos anteriormente ajudam a criar aquela atm
 
 ### 5. [CloudBet](https://linkatin.net/go/cloudbet-atom-melhoresbitcoincassinos/) - Melhor Bitcoin Cassino para Iniciantes Brasileiros
 
-![image3](https://user-images.githubusercontent.com/65598543/196105939-c82e3975-1ebf-419d-b244-9980e62af188.jpg)
+![image3](https://linkatin.net/wp-content/uploads/2022/10/image3.jpg)
 
 **Prós**
 
