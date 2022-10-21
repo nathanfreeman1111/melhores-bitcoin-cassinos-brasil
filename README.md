@@ -1,6 +1,6 @@
 # Melhores Bitcoin Cassinos no Brasil - Top 16 Cassinos que Aceitam Bitcoin no Brasil
 
-![image6](https://user-images.githubusercontent.com/65598543/196103365-e7a299fd-c266-4ee1-b243-bd051621e296.jpg)
+![image6](https://linkatin.net/wp-content/uploads/2022/10/image6.jpg)
 
 Nunca foi tão popular jogar em cassinos de Bitcoin no Brasil. Cada vez mais adeptos dessa modalidade de jogos online surgem, já que os cassinos online brasileiros agora aceitam criptomoedas como Bitcoin e Bitcoin Cash.
 
